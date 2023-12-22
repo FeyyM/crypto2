@@ -1,0 +1,113 @@
+2023-12-20 10:42:44,927 DEBUG :: Debug info
+2023-12-20 10:42:44,927 INFO :: Info info
+2023-12-20 10:42:44,927 WARNING :: Warning info
+2023-12-20 10:42:44,928 ERROR :: Error info
+2023-12-20 10:42:44,928 INFO :: Main loop
+2023-12-20 10:42:44,930 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2023-12-20 10:42:45,505 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-12-20 10:43:25,587 DEBUG :: Debug info
+2023-12-20 10:43:25,588 INFO :: Info info
+2023-12-20 10:43:25,588 WARNING :: Warning info
+2023-12-20 10:43:25,588 ERROR :: Error info
+2023-12-20 10:43:25,588 INFO :: Main loop
+2023-12-20 10:43:25,590 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2023-12-20 10:43:26,083 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-12-20 10:44:57,951 DEBUG :: Debug info
+2023-12-20 10:44:57,951 INFO :: Info info
+2023-12-20 10:44:57,951 WARNING :: Warning info
+2023-12-20 10:44:57,952 ERROR :: Error info
+2023-12-20 10:44:57,952 INFO :: Main loop
+2023-12-20 10:44:57,953 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2023-12-20 10:44:58,343 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-12-20 10:45:53,405 DEBUG :: Debug info
+2023-12-20 10:45:53,405 INFO :: Info info
+2023-12-20 10:45:53,405 WARNING :: Warning info
+2023-12-20 10:45:53,406 ERROR :: Error info
+2023-12-20 10:45:53,406 INFO :: Main loop
+2023-12-20 10:45:53,408 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2023-12-20 10:45:54,027 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-12-20 10:47:15,529 DEBUG :: Debug info
+2023-12-20 10:47:15,529 INFO :: Info info
+2023-12-20 10:47:15,530 WARNING :: Warning info
+2023-12-20 10:47:15,530 ERROR :: Error info
+2023-12-20 10:47:15,530 INFO :: Main loop
+2023-12-20 10:47:15,533 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2023-12-20 10:47:15,935 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-12-20 10:47:43,692 DEBUG :: Debug info
+2023-12-20 10:47:43,693 INFO :: Info info
+2023-12-20 10:47:43,693 WARNING :: Warning info
+2023-12-20 10:47:43,694 ERROR :: Error info
+2023-12-20 10:47:43,694 INFO :: Main loop
+2023-12-20 10:47:43,696 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2023-12-20 10:47:44,105 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-12-20 10:47:56,226 DEBUG :: Debug info
+2023-12-20 10:47:56,227 INFO :: Info info
+2023-12-20 10:47:56,228 WARNING :: Warning info
+2023-12-20 10:47:56,228 ERROR :: Error info
+2023-12-20 10:47:56,228 INFO :: Main loop
+2023-12-20 10:47:56,230 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2023-12-20 10:47:56,630 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-12-20 10:48:35,215 DEBUG :: Debug info
+2023-12-20 10:48:35,216 INFO :: Info info
+2023-12-20 10:48:35,216 WARNING :: Warning info
+2023-12-20 10:48:35,217 ERROR :: Error info
+2023-12-20 10:48:35,217 INFO :: Main loop
+2023-12-20 10:48:35,220 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2023-12-20 10:48:35,605 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-12-20 10:51:38,727 DEBUG :: Debug info
+2023-12-20 10:51:38,727 INFO :: Info info
+2023-12-20 10:51:38,728 WARNING :: Warning info
+2023-12-20 10:51:38,728 ERROR :: Error info
+2023-12-20 10:51:38,728 INFO :: Main loop
+2023-12-20 10:51:38,730 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2023-12-20 10:51:39,155 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-12-20 10:53:10,010 DEBUG :: Debug info
+2023-12-20 10:53:10,010 INFO :: Info info
+2023-12-20 10:53:10,011 WARNING :: Warning info
+2023-12-20 10:53:10,011 ERROR :: Error info
+2023-12-20 10:53:10,011 INFO :: Main loop
+2023-12-20 10:53:10,013 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2023-12-20 10:53:10,715 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-12-20 10:53:49,140 DEBUG :: Debug info
+2023-12-20 10:53:49,141 INFO :: Info info
+2023-12-20 10:53:49,141 WARNING :: Warning info
+2023-12-20 10:53:49,142 ERROR :: Error info
+2023-12-20 10:53:49,142 INFO :: Main loop
+2023-12-20 10:53:49,146 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2023-12-20 10:53:49,812 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-12-20 10:55:56,931 DEBUG :: Debug info
+2023-12-20 10:55:56,932 INFO :: Info info
+2023-12-20 10:55:56,932 WARNING :: Warning info
+2023-12-20 10:55:56,933 ERROR :: Error info
+2023-12-20 10:55:56,933 INFO :: Main loop
+2023-12-20 10:55:56,935 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2023-12-20 10:55:57,332 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-12-20 10:56:53,477 DEBUG :: Debug info
+2023-12-20 10:56:53,478 INFO :: Info info
+2023-12-20 10:56:53,478 WARNING :: Warning info
+2023-12-20 10:56:53,478 ERROR :: Error info
+2023-12-20 10:56:53,479 INFO :: Main loop
+2023-12-20 10:56:53,483 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2023-12-20 10:56:54,053 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-12-21 21:20:50,560 DEBUG :: Debug info
+2023-12-21 21:20:50,562 INFO :: Info info
+2023-12-21 21:20:50,562 WARNING :: Warning info
+2023-12-21 21:20:50,562 ERROR :: Error info
+2023-12-21 21:20:50,563 INFO :: Main loop
+2023-12-21 21:20:50,563 INFO :: Binance Futures Client successfully initialized
+2023-12-21 21:21:20,558 DEBUG :: Debug info
+2023-12-21 21:21:20,559 INFO :: Info info
+2023-12-21 21:21:20,559 WARNING :: Warning info
+2023-12-21 21:21:20,559 ERROR :: Error info
+2023-12-21 21:21:20,559 INFO :: Main loop
+2023-12-21 21:21:20,560 INFO :: Binance Futures Client successfully initialized
+2023-12-21 21:21:20,562 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-12-21 21:21:21,432 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000 HTTP/1.1" 200 None
+2023-12-22 09:12:09,163 DEBUG :: Debug info
+2023-12-22 09:12:09,163 INFO :: Info info
+2023-12-22 09:12:09,164 WARNING :: Warning info
+2023-12-22 09:12:09,164 ERROR :: Error info
+2023-12-22 09:12:09,164 INFO :: Main loop
+2023-12-22 09:12:09,165 INFO :: Binance Futures Client successfully initialized
+2023-12-22 09:12:09,168 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-12-22 09:12:10,545 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000 HTTP/1.1" 200 None
