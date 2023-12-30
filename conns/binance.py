@@ -25,6 +25,8 @@ class BinClient:
 
         logger.info("Binance Futures Client successfully initialized")
 
+        self.strategies = dict()
+
     def _make_request(self, method, endpoint, data = None):
 
         if method == "GET":
