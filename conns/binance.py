@@ -21,6 +21,7 @@ class BinClient:
         self.secret_key = secret_key
         self.base_url = "https://testnet.binancefuture.com" if testnet else "https://fapi.binance.com"
         self.headers = {"X-MBX-APIKEY": public_key}
+        self.prices = dict()
 
 
         logger.info("Binance Futures Client successfully initialized")

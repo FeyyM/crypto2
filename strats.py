@@ -5,7 +5,7 @@ import time
 import pandas as pd
 
 
-from models. import Candle
+from models import Candle
 
 
 logger = logging.getLogger()
@@ -35,16 +35,18 @@ class Strategy:
         self._loss = None
 
         self.candles: typing.List[Candle] = []
+        self.logs = []
+
+
+    def _add_log(self, msg:str):
+        logger.info("%s", msg)
+        self.logs.append({"log": msg, "displayed": False})
 
 
 
     def intitial_candle(self) -> None:
-        
         time.time.now()
 
-        time.time.now()
-        
-        pass
 
     def parse_trade(self, price: float, size: float, timestamp: int) -> int:
 
@@ -93,6 +95,7 @@ class Strategy:
 
         return 1
 
+
     def _open_position(self, signal: int):
         
         trade_size = self.api.get_trade_size(self.contract, self.candles[-1].close,
@@ -100,7 +103,15 @@ class Strategy:
     
         if trade_size is None:
             return 
-        els
+
+        order_side = "buy" if signal == 1 else "sell"
+        position = "long" if signal == 1 else "short"
+
+        self._add_log(f"{position} signal on {self.contract.symbol}")
+
+        
+            
+        
 
 
 
